@@ -7,6 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiConsoleApp", "DiConsoleAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Horth.Shared.Infrastructure", "Horth.Shared.Infrastructure\Horth.Shared.Infrastructure.csproj", "{030C8E8B-9C84-4005-93C7-D293479E4F68}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "etc", "etc", "{8B238376-7030-4F90-82CA-10D9B619C570}"
+	ProjectSection(SolutionItems) = preProject
+		..\ArticleLogo.jpg = ..\ArticleLogo.jpg
+		..\LICENSE = ..\LICENSE
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
