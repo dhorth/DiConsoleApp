@@ -1,6 +1,6 @@
 # Dependency Injection for net5 console applications
 
-A Google search for provide numerous results on how to use dependency injection in a dotnet console application.  My problem with a majority of the examples provided, including Microsoft own example, is that they wanted you to use the ServiceProvider to get the actual service you required.  See the example below
+An internet search will provide numerous results on how to use dependency injection in a dotnet console application.  My problem with a majority of the examples provided, including Microsoft own example, is that they wanted you to use the ServiceProvider to get the actual service you required.  See the example below
 ```
 using System;
 using System.Threading.Tasks;
